@@ -56,7 +56,7 @@ a:hover {
   transform: translateX(-50%);
   height: 2.4rem;
   width: 9.1rem;
-  background-image: url('/img/dnipro_logo.svg');
+  background-image: url('./img/dnipro_logo.svg');
   opacity: 1;
   background-repeat: no-repeat;
 }
